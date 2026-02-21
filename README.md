@@ -175,7 +175,7 @@ flowchart TD
     A --> H[Milestones & Recognition]
     A --> I[Blog & Insights]
     A --> J[FAQ]
-    A --> K[Portal (Authenticated Users)]
+    A --> K[Portal - Authenticated Users]
     K --> K1[Retiree_Corp Notes]
     K --> K2[Internal Resources]
     K --> K3[Learning Paths]
