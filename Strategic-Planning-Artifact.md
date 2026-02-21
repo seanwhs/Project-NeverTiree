@@ -2,7 +2,7 @@
 
 ## Strategic Planning Artifact
 
-### Version 1.0  
+### Version 1.0
 
 Notes Repository:
 [https://github.com/seanwhs/Retiree_Corp](https://github.com/seanwhs/Retiree_Corp)
@@ -11,25 +11,26 @@ Notes Repository:
 
 # 1. Executive Summary
 
-**RetireeCorp** is a purpose-driven digital ecosystem designed for retired professionals who wish to continue contributing meaningfully while preserving holistic well-being.
+**RetireeCorp** is a purpose-driven digital ecosystem for retired professionals who wish to contribute meaningfully while preserving holistic well-being.
 
-It is:
+It provides:
 
 * A structured community
 * A mentorship and advisory network
 * A governance-first engagement platform
 * A lifelong learning environment
 * A values-driven digital movement
+* An **authenticated portal** for curated knowledge sharing
 
 RetireeCorp recognizes that retirement is not withdrawal — it is evolution.
 
-This initiative is openly documented and evolving in the public repository linked above, reflecting transparency and collaborative growth.
+The authenticated portal extends value by giving verified members access to curated content, resources, learning paths, and internal planning notes derived from the `Retiree_Corp` repository.
 
 ---
 
 # 2. Foundational Philosophy
 
-RetireeCorp exists on five non-negotiable pillars:
+RetireeCorp is grounded in five non-negotiable pillars:
 
 ### 1️⃣ Sustainable Excellence
 
@@ -41,7 +42,7 @@ Contribution is driven by meaning, not metrics alone.
 
 ### 3️⃣ Governance & Ethical Discipline
 
-Professional engagements must follow structured decision-making and ethical norms.
+Professional engagements follow structured decision-making and ethical norms.
 
 ### 4️⃣ Human-Centric AI Collaboration
 
@@ -71,6 +72,7 @@ Retirement marks the beginning of reflective, cross-domain intellectual expansio
 
 [ Join the Community ]
 [ Engage a Retiree Expert ]
+[ Access Portal ]
 
 ---
 
@@ -78,11 +80,9 @@ Retirement marks the beginning of reflective, cross-domain intellectual expansio
 
 ---
 
-## 1️⃣ Our Purpose (From README)
+## 1️⃣ Our Purpose
 
 > “We exist to create meaningful impact while maintaining holistic well-being.”
-
-This is the heart of RetireeCorp.
 
 We champion:
 
@@ -92,28 +92,28 @@ We champion:
 * Human-first technology
 * Structured wisdom transfer
 
-This is not hustle culture.
-This is wisdom culture.
+This is **not hustle culture**. This is **wisdom culture**.
 
 ---
 
 ## 2️⃣ What We Offer
 
-RetireeCorp is a **hybrid platform** combining community, advisory, and learning.
+RetireeCorp is a **hybrid platform** combining community, advisory, learning, and a portal for authenticated users:
 
 ✔ Community of retired professionals
 ✔ Mentorship & teaching participation
 ✔ Consultancy & advisory engagements
 ✔ Lifelong learning resources
 ✔ Recognition program & milestone celebration
+✔ **Authenticated portal** for accessing curated internal content and Retiree_Corp notes
 
 We preserve experience and elevate its continued impact.
 
 ---
 
-## 3️⃣ Community Values (Core Trust Proposition)
+## 3️⃣ Community Values
 
-Our values are not decorative — they define engagement.
+Our values define engagement:
 
 * Human-centric work policies
 * Ethical AI engagement
@@ -121,7 +121,7 @@ Our values are not decorative — they define engagement.
 * Health, rest, and family first
 * Governance-based decision-making
 
-This is what differentiates RetireeCorp from generic freelance platforms.
+This differentiates RetireeCorp from generic freelance platforms.
 
 ---
 
@@ -130,7 +130,7 @@ This is what differentiates RetireeCorp from generic freelance platforms.
 ### 🔹 For Retirees
 
 1. Join the community
-2. Choose your contribution path
+2. Choose your contribution path:
 
    * Mentor
    * Advisor
@@ -138,6 +138,7 @@ This is what differentiates RetireeCorp from generic freelance platforms.
    * Thought Leader
 3. Maintain a sustainable pace
 4. Engage meaningfully without burnout
+5. Access the **authenticated portal** to view curated resources, learning paths, and internal notes
 
 ---
 
@@ -146,7 +147,7 @@ This is what differentiates RetireeCorp from generic freelance platforms.
 1. Post a challenge, advisory need, or mentorship opportunity
 2. Get matched with experienced professionals
 3. Execute within structured governance frameworks
-4. Deliver outcomes with risk awareness and calm precision
+4. Deliver outcomes with risk awareness and precision
 
 ---
 
@@ -164,11 +165,9 @@ Includes:
 * Well-being focus
 * Member stories
 * Recognition milestones
-* Celebrating professional legacy
 * Peer discussions
 * Community events
-
-This mirrors the repository sections around recognition and well-being.
+* **Authenticated portal access** to curated knowledge from Retiree_Corp
 
 ---
 
@@ -184,14 +183,13 @@ Includes:
 * Project governance assistance
 * Fractional leadership roles
 * Technical due diligence
-
-Every engagement follows governance and ethical frameworks.
+* Portal-based insights for authenticated users
 
 ---
 
 # 📚 Learning Pathways
 
-Directly aligned with repository folders:
+Aligned with repository folders:
 
 * Learning Paths
 * Lifelong Learning
@@ -203,16 +201,14 @@ Includes:
 * Curated learning journeys
 * AI collaboration literacy
 * Thought publications
-* Resource library
 * Knowledge-sharing sessions
-
-RetireeCorp members evolve continuously.
+* **Portal-exclusive content** pulled from Retiree_Corp notes
 
 ---
 
 # 📋 Policies & Governance
 
-This is a platform strength and enterprise differentiator.
+Enterprise-grade trust framework.
 
 Includes:
 
@@ -223,7 +219,7 @@ Includes:
 * Conflict-of-interest standards
 * Confidentiality frameworks
 
-This builds trust for organizations engaging retirees.
+Portal users gain structured access to internal decision-making and governance notes.
 
 ---
 
@@ -264,17 +260,21 @@ Home
 │   └── Decision-Making Frameworks
 │
 ├── Milestones & Recognition
-│
 ├── Blog & Insights
-│
 ├── FAQ
-│
+├── Portal (Authenticated Users)
+│   ├── Retiree_Corp Notes
+│   ├── Internal Resources
+│   ├── Learning Paths
+│   └── Governance Templates
 └── Contact
 ```
 
 ---
 
 # 6. Text-Based Website Prototype
+
+The portal is integrated seamlessly with public pages.
 
 ---
 
@@ -291,7 +291,7 @@ A vibrant community of retirees contributing wisdom,
 mentoring the next generation,
 and doing meaningful work without sacrificing well-being.
 
-[ Join the Community ]   [ Engage a Retiree Expert ]
+[ Join the Community ]   [ Engage a Retiree Expert ]   [ Access Portal ]
 
 ──────────────────────────────
 
@@ -307,6 +307,7 @@ Featured Paths:
 • Mentorship Programs
 • Advisory Projects
 • Lifelong Learning
+• Portal Access for Authenticated Members
 
 [ Learn More ]
 ──────────────────────────────
@@ -335,9 +336,7 @@ Paths to Contribute:
 • Thought Leader
 • Project Consultant
 
-You define your availability.
-You control your pace.
-You preserve your well-being.
+Portal Access: View curated Retiree_Corp notes and resources
 
 [ Get Started ]
 ──────────────────────────────
@@ -345,55 +344,30 @@ You preserve your well-being.
 
 ---
 
-# 📌 FOR ORGANIZATIONS
+# 📌 PORTAL (Authenticated Users)
 
 ```
 ──────────────────────────────
-Engage Wisdom with Purpose
+RetireeCorp Portal – Authenticated Access
 ──────────────────────────────
 
-Need guidance? Mentors? Strategic advice?
+Welcome, [User Name]!
 
-Our RetireeCorp professionals offer:
-• Advisory services
-• Mentorship for teams
-• Governance frameworks
-• Architecture reviews
-• Risk assessment
+Access exclusive content curated from Retiree_Corp repository:
 
-Submit your challenge – we match you to the right expert.
+✔ Internal strategic notes  
+✔ Learning paths & resource libraries  
+✔ Governance frameworks  
+✔ Advisory templates and mentorship guides  
+✔ Community recognition milestones
 
-[ Post Opportunity ]
-──────────────────────────────
-```
-
----
-
-# 📌 LEARNING
-
-```
-──────────────────────────────
-Lifelong Learning & Resources
-──────────────────────────────
-
-Explore:
-• Learning Paths
-• Cross-domain Exploration
-• AI Ethical Collaboration Practices
-• Recommended Resources
-
-Retirement is not the end of growth.
-It is the beginning of reflective expansion.
-
-[ Browse Library ]
+[ Browse Knowledge Base ]   [ Submit Feedback ]   [ Update Profile ]
 ──────────────────────────────
 ```
 
 ---
 
 # 7. Founder Section
-
-## Founder
 
 RetireeCorp was initiated by a technology professional with deep experience in:
 
@@ -405,36 +379,34 @@ RetireeCorp was initiated by a technology professional with deep experience in:
 
 The founder recognized a gap:
 
-When experienced professionals retire, decades of institutional knowledge risk being lost.
+Decades of institutional knowledge risk being lost when professionals retire.
 
 RetireeCorp was created to:
 
 * Preserve wisdom
-* Structure its continued contribution
+* Structure continued contribution
 * Protect well-being
 * Enable ethical, governance-aligned engagement
 * Build a community of reflection, mentorship, and impact
 
-This is not a late-career project.
-It is a long-view initiative designed to evolve across decades.
+This is a **long-view initiative** intended to evolve across decades.
 
 ---
 
 # 8. Strategic Positioning
 
-RetireeCorp is not a gig marketplace.
-
-It is a values ecosystem.
+RetireeCorp is a **values ecosystem**, not a gig marketplace.
 
 It provides:
 
-✔ A community portal
-✔ A service marketplace
-✔ A thought leadership hub
-✔ A well-being-centred brand
-✔ A governance-based trust framework
+✔ Community portal
+✔ Service marketplace
+✔ Thought leadership hub
+✔ Well-being-centred brand
+✔ Governance-based trust framework
+✔ **Authenticated knowledge portal**
 
-This structural clarity is its competitive advantage.
+This structural clarity is a competitive advantage.
 
 ---
 
@@ -464,5 +436,4 @@ It sustains contribution.
 
 Experience does not retire.
 It matures into guidance.
-
 
