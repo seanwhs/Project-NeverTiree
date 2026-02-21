@@ -31,6 +31,9 @@ graph TB
     COST --- REV
 ```
 
+```mermaid
+
+```
 ---
 
 ## 🔹 Detailed Explanation of Each Canvas Component
