@@ -2,7 +2,10 @@
 
 ## Strategic Planning Artifact
 
-### Version 1.0 – Integrated Website & Platform Blueprint
+### Version 1.0  
+
+Notes Repository:
+[https://github.com/seanwhs/Retiree_Corp](https://github.com/seanwhs/Retiree_Corp)
 
 ---
 
@@ -19,6 +22,8 @@ It is:
 * A values-driven digital movement
 
 RetireeCorp recognizes that retirement is not withdrawal — it is evolution.
+
+This initiative is openly documented and evolving in the public repository linked above, reflecting transparency and collaborative growth.
 
 ---
 
@@ -163,7 +168,7 @@ Includes:
 * Peer discussions
 * Community events
 
-This mirrors your repository sections around recognition and well-being.
+This mirrors the repository sections around recognition and well-being.
 
 ---
 
@@ -186,7 +191,7 @@ Every engagement follows governance and ethical frameworks.
 
 # 📚 Learning Pathways
 
-Directly aligned with your folders:
+Directly aligned with repository folders:
 
 * Learning Paths
 * Lifelong Learning
@@ -231,6 +236,11 @@ Home
 │   ├── Community Purpose
 │   └── Core Principles
 │
+├── Founder
+│   ├── Founder Story
+│   ├── Vision Behind RetireeCorp
+│   └── Professional Background
+│
 ├── Join the Community
 │   ├── For Retirees
 │   ├── Eligibility & Guidelines
@@ -261,8 +271,6 @@ Home
 │
 └── Contact
 ```
-
-This sitemap reflects your repository’s thematic organization and elevates it into a scalable web structure.
 
 ---
 
@@ -383,7 +391,36 @@ It is the beginning of reflective expansion.
 
 ---
 
-# 7. Strategic Positioning
+# 7. Founder Section
+
+## Founder
+
+RetireeCorp was initiated by a technology professional with deep experience in:
+
+* Enterprise architecture
+* Governance frameworks
+* Large-scale system integration
+* Data and platform modernization
+* Structured decision-making in complex environments
+
+The founder recognized a gap:
+
+When experienced professionals retire, decades of institutional knowledge risk being lost.
+
+RetireeCorp was created to:
+
+* Preserve wisdom
+* Structure its continued contribution
+* Protect well-being
+* Enable ethical, governance-aligned engagement
+* Build a community of reflection, mentorship, and impact
+
+This is not a late-career project.
+It is a long-view initiative designed to evolve across decades.
+
+---
+
+# 8. Strategic Positioning
 
 RetireeCorp is not a gig marketplace.
 
@@ -397,13 +434,13 @@ It provides:
 ✔ A well-being-centred brand
 ✔ A governance-based trust framework
 
-This is your structural advantage.
+This structural clarity is its competitive advantage.
 
 ---
 
-# 8. Long-Term Strategic Potential
+# 9. Long-Term Strategic Potential
 
-Future possibilities:
+Future possibilities include:
 
 * Global chapters
 * Certification badges for verified experience
@@ -414,7 +451,7 @@ Future possibilities:
 
 ---
 
-# 9. Closing Philosophy
+# 10. Closing Philosophy
 
 RetireeCorp is not about staying busy.
 
@@ -427,3 +464,5 @@ It sustains contribution.
 
 Experience does not retire.
 It matures into guidance.
+
+
